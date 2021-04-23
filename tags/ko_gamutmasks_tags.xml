@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tags>
+<tags>
+ <resource identifier="dummy">
+  <tag blacklisted="true">Rad's</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">1_Rad's</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">Rad's</tag>
+ </resource>
+ <resource identifier="dummy">
+  <tag blacklisted="true">1_Rad's</tag>
+ </resource>
+</tags>
