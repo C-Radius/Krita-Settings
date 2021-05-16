@@ -1,455 +1,957 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tags>
 <tags>
- <resource md5="3pvGM4WEyKTvVOg+hoQOjg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Crackles.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="X5aEio5q8olzJVazBUwKJQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Textured_Soft.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="rqYbBhHZ63j6fjAES8/wmQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Charcoal_Pencil_Medium.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
  <resource md5="Gsp8Jw1h/v9JNzoSw69jSA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Snow_Pile.kpp">
   <tag blacklisted="false">Textures</tag>
  </resource>
- <resource md5="0CeZrUGmNp2nq4nhRislBg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Brushing.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="BsCJELMm8VLVzcjoavkvnQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Basic.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="3vE+680/OWXCLCZQT9vpbA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Screentone_Moire.kpp">
-  <tag blacklisted="false">Textures</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="NeG31MKCUrgTuXb7/lJC7w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-1.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="mtzz6lzCN/rjmElT5ldZAg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Vegetal.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="U4Hc6NG/yryxE8nHqwj77g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Chalk_Soft.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="As3pVHh77yzJGU43U48hYg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Reptile.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="Wypg9UwN+hFJ95+iw/KOag==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Rake.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="lLOfk9B7UcmyROzfHP1D8w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Charcoal_Rock_Soft.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="73yMuD5x29aiaaqfu6afVw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Textured_Creases.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="N7sl8brYGhMfnbIqLoznyw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Chalk_Grainy.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="c6fIbFaWWvHp7s+Wwq+tFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-1_Precision.kpp">
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="td7FGG0/Dmq77mVfBfYE0w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/j)_Watercolor_Fringe.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="NMHmZJ7wQp3Dpwcdcaxb2g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Dry_Roller.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="GK2BwGJcEdOpfx9xYOZulg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Water.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="zqipIRLELOsZ3c0TkH1duA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Screentones_Regular.kpp">
-  <tag blacklisted="false">Textures</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="QTNreVL5rZzLkwYZbVwsXA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-2_Fineliner.kpp">
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="WhYt2U1Ts5uqvCCkvwM25Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Knife_Edge.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="J8u9vCbTDSiKo4Uzn8qC9g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/a)_Eraser_Small.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Erasers</tag>
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="0VwRQJpgcZAi/6h8xFguvQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Dodge.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="doXdPBy9CXslAEi+W0sHcA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_02_Thickpaint.kpp">
+ <resource md5="jx6H/1fsKq+rA3dhtjVOHA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_06_Rock.kpp">
   <tag blacklisted="false">RGBA</tag>
  </resource>
- <resource md5="6EeTYQC4CwlMT56xvvvwFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Mecha.kpp">
-  <tag blacklisted="false">Digital</tag>
+ <resource md5="ZWCwP99Bq9v1R7YgjJULeQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/66_Brush1.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
  </resource>
- <resource md5="gfAZJVL4LwHVgD2KfG6TFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Screentone_Pressure.kpp">
-  <tag blacklisted="false">Textures</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="hYHZerOnWhAaMyRxAQW7GA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_05_Impasto-details.kpp">
-  <tag blacklisted="false">RGBA</tag>
- </resource>
- <resource md5="Laa007BBSh6chLRQg+XB5g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Grass.kpp">
+ <resource md5="pT2yeLkeCQu3JUyGcUDJjg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Hair.kpp">
   <tag blacklisted="false">Textures</tag>
  </resource>
- <resource md5="wxeQ29Wnu8y2Plp4WKGKrg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Distort_Move.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="7WQ0eHqILfDLt2eP95pkYQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Spikes.kpp">
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="U2V/ZWrZmmQ6ankZdT94wA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-8_Sumi-e.kpp">
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="MuGLlrkg3qUIVkQw5+EJmw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/e)_Marker_Chisel_Smooth.kpp">
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="MUl5kvlbwlvetER2v9GyFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Big.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="rzzdu2ICK8KxUXXCDvTMjg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Charcoal_pencil_large.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="xA6jzSXWcsmPDpM2RGQRYw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/e)_Marker_Dry.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="sESbf9YOLmHHX423nTzqxw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Chalk_Details.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="NldR/DeSZVRtxqbxnZ7Zgw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Bristles.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="P91fYIyVixr/C5MCFcAOXw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Sketching-3_Leaky.kpp">
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="f2SuklV4XvVhAUkeDB/jbg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Distort_Shrink.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="qN+vBL/SeQg4aoqxa9NVgA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Experimental_Webs.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="4NbYXfbh3rpOWG6YUPaYww==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_03_Rake.kpp">
-  <tag blacklisted="false">RGBA</tag>
- </resource>
- <resource md5="qmChker5UxLMjYKju4ki6g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Grass_Patch.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="yOZ0UO3CjNTJdnx23jtRqA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Paint_Details.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
- </resource>
- <resource md5="AQ2YRkccT/h1p/CCsUjsrg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-5_Flat.kpp">
-  <tag blacklisted="false">Paint</tag>
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="7ZzdC9i+yaNa8YsACv9cdQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Color.kpp">
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="pmFH0naPrrHMms2qSw0wDQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Paint.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
- </resource>
- <resource md5="yV+jEnJbFjqr7/MUzDckhA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Knife.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="jbSk72WTzgrxodh5FBT8zQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/j)_Watercolor_Texture.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="2EK7YsktTmZooXnC9Xydlw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Square.kpp">
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="ts304bkS782nmbQpVgnhVA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Lighten.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="FxRnxWzpI5BXMp3luh63fQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Bokeh.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="GQE7mbw1TVMmO72pZhl9mw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Airbrush_Soft.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="bca+YdG+qQ32KdeSn7pw9Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Fill.kpp">
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="xpa0P52g1IdU+2qakI86yQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Sketching-2_Chrome_Large.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="Q6/54TSai+E+eePM6o7cMQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Sketching-1_Chrome_Thin.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="4g7bdlKssVwQ/pgVP9554Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Bristles_Rough.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="q4cgzL7WQhKaYYEegRK0Iw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-3_Flow.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="U1A2qufMLg9JqeKChaAaQg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Shoujo_Bubbles.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Textures</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="Y1GmNgEZxbUEHxHT09kArQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-7_Brush_Rough.kpp">
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="xkm1hC02jeb+/RoKzi+1TQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/e)_Marker_Details.kpp">
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="nmQ8ozICRggQGtwIY8IEYw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Texture_Pointillism.kpp">
-  <tag blacklisted="false">Paint</tag>
+ <resource md5="Yz1vNe0FjTk3zheQAdcZGw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Concept_&amp;_Illustration_v1.2.bundle:paintoppresets/1)Basic_ink_backup_2020-05-06-180326.kpp">
+  <tag blacklisted="false">FAVS</tag>
  </resource>
  <resource md5="B0pf+/HxmYrPEvelzTgqxA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/x)_Filter_Blur.kpp">
   <tag blacklisted="false">FX</tag>
  </resource>
- <resource md5="mdgAKNtMtb0bdS6heaZGgQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Wood_Fiber.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="/X6bKbScI/3IpsIQy1e2SQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/j)_Waterpaint_Hard_Edges.kpp">
+ <resource md5="QvG1ISkwcquYHtlkkoXwDg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Dirty_Texture_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
   <tag blacklisted="false">Paint</tag>
  </resource>
- <resource md5="EmfLPU7xwqQQ1EKeJ1rNAA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Clone_Tool.kpp">
-  <tag blacklisted="false">Sketch</tag>
+ <resource md5="YoO8b6eXt9LOsFca9ugMug==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_lightbouquet.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="pKHZARsOEb8WrsP/05FWdA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/y)_Texture_Clouds_RZV.kpp">
+  <tag blacklisted="false">Textures</tag>
   <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
  </resource>
- <resource md5="SKgu7U1o+oGiacwBEISgSw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Starfield.kpp">
-  <tag blacklisted="false">FX</tag>
+ <resource md5="Laa007BBSh6chLRQg+XB5g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Grass.kpp">
   <tag blacklisted="false">Textures</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="nnsp7FEXrLmi9pKwNaxAnw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Blur.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="MN6ki/ZazvP6Gw0+vLtQUg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-6_Quick_Shade.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="hVTKIBn/APTbv+ZdpPYVig==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Leaves.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="xX0+rs1wgn6XTs+PcSZCPQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/x)_Filter_Sharpen.kpp">
-  <tag blacklisted="false">FX</tag>
- </resource>
- <resource md5="BtJwxBVaywkkk2au7fsOZg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Sparkles.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="mjrP7W7cUUB7bWtSHmxueg==" identifier="C:/Program Files/Krita (x64)/share/krita/paintoppresets/b)_Basic-5_Size_default.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="OkHQLNCL/prmh7w7y4+pkA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-5_Tilted.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="QEhUmD0T/piCl88uosYNjw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Rounded.kpp">
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="YK+CZ0G0tylDhZdK721rVg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-1_Hard.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="iv/GDLKh2C81KVrkb/xHgQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Mountains_Distant.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="Y6RYyZIloBCQeYaaNePUMg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-2_Flat_Rough.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="FrqJSZo2vHBBjiCqw6s6XA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Bristles.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="kPHYIQzkT/QIFB9Q9+ZprA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Smear.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Paint</tag>
  </resource>
  <resource md5="XCz7UfLUih19OGffSNT5Eg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Herbals.kpp">
   <tag blacklisted="false">Textures</tag>
  </resource>
- <resource md5="nylU5+UnF0kBdvXOXmy5fQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Distort_Grow.kpp">
-  <tag blacklisted="false">Sketch</tag>
+ <resource md5="BATq/XWNRPoFKN2k5HEQsA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/b)_Block_Gradient_RZV.kpp">
   <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="gw4/cpdCd/AVqR2UnGUrzQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-3_Large_4B.kpp">
-  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">RZV</tag>
  </resource>
  <resource md5="ty6rMGly0cysc09S4JuQ4A==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/u)_Pixel_Art_Dithering.kpp">
+  <tag blacklisted="false">Digital</tag>
   <tag blacklisted="false">Pixel Art</tag>
-  <tag blacklisted="false">Digital</tag>
  </resource>
- <resource md5="ZXWk+3UFJVtbH0NnTTxejQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Hearts.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Textures</tag>
-  <tag blacklisted="false">Ink</tag>
+ <resource md5="VwfEwq3nn0tpPkVuQQ7n/A==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/15_Colors.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
  </resource>
- <resource md5="g8eZIZqoGAOrnly25NwaTA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Random_Particles.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="ckfI5Tcb2y9b+PUInIEodQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Charcoal_Pencil_Thin.kpp">
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="MW0y5fUFmTrC0GYKDhWWUg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Large_Splat.kpp">
-  <tag blacklisted="false">Textures</tag>
-  <tag blacklisted="false">Paint</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="M11oyBlMYaLbD1iRYwx7gw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-4_Soft.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="LOLNtHge8n6+g76ieFnsQg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Textured_Soft.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="AgNCjOaz2l2Rdi3OlY6ElQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Overlay_Burn.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="DyeXXun+hzvXbedVcYvqUg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/u)_Pixel_Art_Fill.kpp">
-  <tag blacklisted="false">Pixel Art</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="dqxCeCVVK5oJGtL4U+BnXA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-2.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="oYtufqIVKIowzRU3aUfC/g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/u)_Pixel_Art.kpp">
-  <tag blacklisted="false">Pixel Art</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="W6xPuninkjVCqF+9iv80Qw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-3_Gpen.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="WEAiY9JOajZYb6EeTSdeyg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/a)_Eraser_Soft.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Erasers</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="chzdUO9Ij9cqGcNELbitgA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-5_Size_Opacity.kpp">
-  <tag blacklisted="false">★ My Favorites</tag>
-  <tag blacklisted="false">Paint</tag>
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="CNarPOt2Za0H3YVKl8m67A==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-1_Details.kpp">
+ <resource md5="yV+jEnJbFjqr7/MUzDckhA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Knife.kpp">
   <tag blacklisted="false">Paint</tag>
  </resource>
  <resource md5="Tr0NapU++Vm2PHbfDStv2w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_04_Impasto.kpp">
   <tag blacklisted="false">RGBA</tag>
  </resource>
- <resource md5="yUoaK9C/KPJQdqE44xpQIw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Floor.kpp">
-  <tag blacklisted="false">Textures</tag>
- </resource>
- <resource md5="4LAwon/v8Hmf0GkcIz5Enw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Texture_Impressionism.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="3lNWGXoQeEsJXAIhvQEx7Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-2_Opacity.kpp">
+ <resource md5="U4Hc6NG/yryxE8nHqwj77g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Chalk_Soft.kpp">
   <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
  </resource>
- <resource md5="O6FdSJrwzobVxePmi3ZJiQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Pixelize.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Digital</tag>
+ <resource md5="drB+2DmV3UO/FGKxnchLzA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/76_Brush2.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="G3d9uRTDkB4sGMj1QRKHHg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Dry_Brush_Simple_RZV.kpp">
   <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="tEGa5RoNS5vbOzdzxW/T6w==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/33_Tilt2.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="SDOCpIOtF9dRUpFByBPXEw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/24_Clone_brush5.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="0VwRQJpgcZAi/6h8xFguvQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Dodge.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">FX</tag>
  </resource>
  <resource md5="c3FV6BidY0khjezlLdEK/g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/j)_Waterpaint_Soft_Edges.kpp">
   <tag blacklisted="false">Paint</tag>
  </resource>
- <resource md5="BvLMfAH5F0Qs1fzzkjJ7kA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-4_Pen_Rough.kpp">
+ <resource md5="FzJmtMLABKwXI+aihou5AA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_waterink.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="MW0y5fUFmTrC0GYKDhWWUg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Large_Splat.kpp">
   <tag blacklisted="false">Ink</tag>
- </resource>
- <resource md5="6AZb4BFTL3iUp9t8TcXJVQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-6_Details.kpp">
   <tag blacklisted="false">Paint</tag>
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="uqIWUOlJNJ0XeOAIyf0B/Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Bristles_Eroded.kpp">
-  <tag blacklisted="false">Paint</tag>
- </resource>
- <resource md5="o/PMuu7C/RYrjM9yLPhiCg==" identifier="~/AppData/Roaming/krita/paintoppresets/My_Sketch_Brush.kpp">
-  <tag blacklisted="false">Digital</tag>
-  <tag blacklisted="false">Sketch</tag>
- </resource>
- <resource md5="ikM1bn6xLCo+IJP1wLV0/w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Multiply.kpp">
-  <tag blacklisted="false">FX</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="BFT8YqJorap8RdvAi76h2w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-4_Flow_Opacity.kpp">
-  <tag blacklisted="false">Sketch</tag>
-  <tag blacklisted="false">Digital</tag>
- </resource>
- <resource md5="4jjHdoPGshOm42tnWv9dbw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_01_Thick-dry.kpp">
-  <tag blacklisted="false">RGBA</tag>
- </resource>
- <resource md5="CUV3igsYcrYjk/LBiIRC0w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Noise.kpp">
   <tag blacklisted="false">Textures</tag>
  </resource>
- <resource md5="/sNZFn7C6SEkiSIowE4gHQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-4_Glaze.kpp">
-  <tag blacklisted="false">Paint</tag>
+ <resource md5="kRh/8ZxlQ6PCJwgEXvZg7Q==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/73_Brush5.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
  </resource>
- <resource md5="NaUnw3ERP6WCDw2bvRtm+g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Spines.kpp">
-  <tag blacklisted="false">Textures</tag>
+ <resource md5="BsCJELMm8VLVzcjoavkvnQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Basic.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="n+KEHAVJ/uy08xbjVQdhpg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_leafbouquet.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="xpa0P52g1IdU+2qakI86yQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Sketching-2_Chrome_Large.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="5BKtNDZcmSpEVDAfEYcmWQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/i)_Oil_Brush_Sculpt_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="kN3Ugz5W+Wyskw5Bo+1gxQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_inkonink.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Basic</tag>
+ </resource>
+ <resource md5="kPHYIQzkT/QIFB9Q9+ZprA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Smear.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="ckBiE1DY51vcaaPDyl3fsQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/14_test_pencil.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="o+IY1mJwyD4x02YMvs3Icg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/27_Blender_Scribbles.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="pzct61NXFHBw4TCgUzk7Lg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/31_Soft.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="CLBHfJbbnzSfKBK+/hrclw==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/d)_Ink_Chaos-Transparent_RZV.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="M+7R5aIViNxhL6BnRwIkbQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/72_Brush6.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="WEAiY9JOajZYb6EeTSdeyg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/a)_Eraser_Soft.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Erasers</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="J8u9vCbTDSiKo4Uzn8qC9g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/a)_Eraser_Small.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Erasers</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
  </resource>
  <resource md5="lWAUef2+dDe4DCVENH0Vng==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-3_Large_Smooth.kpp">
   <tag blacklisted="false">Paint</tag>
  </resource>
+ <resource md5="mdgAKNtMtb0bdS6heaZGgQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Wood_Fiber.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="qZt1Z28Y2/ZBQBRUvTyF2A==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/v)_Smoke_RZV.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="HJnN4W/j072fmw71wSnRWA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/16_Texture_Generator.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="kYpNO+uRkL6zjA2/SxXCog==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/37_Blender_Soft.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="S7PONoQjkNN5wnpcLu3khw==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/b)_Basic_Oval_RZV.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="CUV3igsYcrYjk/LBiIRC0w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Noise.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="+dvQ3smnNqeYT8dOn4HlYw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_speckles.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="kzzBZ99EhKilXnVmnxQrjg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/i)_Oil_Brush_Traditional_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="chzdUO9Ij9cqGcNELbitgA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-5_Size_Opacity.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="Y5g5Cu7yFrtk+KXG2P5+ew==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/h)_Charcoal_Flexible_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="PGu15D4TW9+gxw9JMWgcjQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/d)_Ink_ThinkNThin_RZV.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="amWbKKoMoKuP6oRgn2oD7A==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rakurri_Brush_Set_V.1.1.bundle:paintoppresets/Rakurri_Blender_Dirtysmooth.kpp">
+  <tag blacklisted="false">Rakurri</tag>
+ </resource>
+ <resource md5="l6qahx0CkVXd807/kroRbg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_bubbleshades.kpp">
+  <tag blacklisted="false">Clouds</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="P91fYIyVixr/C5MCFcAOXw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Sketching-3_Leaky.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="NpKcb8TSadAVG9niI8OThQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/32_Tilt1.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="n6osxcDvgxutqqd+1CLy6A==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/34_Clone_brush3.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="FrqJSZo2vHBBjiCqw6s6XA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Bristles.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="mtzz6lzCN/rjmElT5ldZAg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Vegetal.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="kIRB5WgD5/BOHm4IhmrC9A==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Dry_Smooth_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="HptqewDv6He3XG9lE/B7mA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_firstink.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Basic</tag>
+ </resource>
+ <resource md5="FGFmyEaZZletkE++2ub3gQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_steamball.kpp">
+  <tag blacklisted="false">Clouds</tag>
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="QWWgLrxnclzI6sBJ/2VKPA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/v)_Splat-2_RZV.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="0cxKV8PgZdbwYsNmWttE8Q==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rakurri_Brush_Set_V.1.1.bundle:paintoppresets/Rakurri_Blender_Speckles.kpp">
+  <tag blacklisted="false">Rakurri</tag>
+ </resource>
+ <resource md5="IgUKNPH8/L7NrBLsXhJ3uQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_oldbricks.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="g8eZIZqoGAOrnly25NwaTA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Random_Particles.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="xX0+rs1wgn6XTs+PcSZCPQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/x)_Filter_Sharpen.kpp">
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="lYXc1Ig6f+9qvsR+E5rRTQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Concept_&amp;_Illustration_v1.2.bundle:paintoppresets/1)Basic_old_classic_backup_2020-05-13-194954.kpp">
+  <tag blacklisted="false">FAVS</tag>
+ </resource>
+ <resource md5="6f37iQ7KoXo9yjR1hYLSNA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/35_Clone_brush4.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="W6xPuninkjVCqF+9iv80Qw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-3_Gpen.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="zIUoNsuJz7oRnydOoajL1g==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Hard_Texture_Paint_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="s0rHlMRzZB888CS9YakHuw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/22_Tilt3.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="ZXWk+3UFJVtbH0NnTTxejQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Hearts.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Textures</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="v9ThgYNMPpDQIzLyZxoDpQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/25_Clone_brush6.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="VDSTo5tzchC+hIQWOV6yyQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/71_Hairy.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="4jjHdoPGshOm42tnWv9dbw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_01_Thick-dry.kpp">
+  <tag blacklisted="false">RGBA</tag>
+ </resource>
+ <resource md5="Y6RYyZIloBCQeYaaNePUMg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-2_Flat_Rough.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="Xb87mHFmNVuvwlIzmlcizg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/47_Oils_Bristle2.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="9u5nfvAG/YnqEMLFW6VOrw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_crossmist.kpp">
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="pourkaT3XWjLoR6AJcByIg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/63_Brush8.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="gw4/cpdCd/AVqR2UnGUrzQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-3_Large_4B.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="W1h0q/3w6T8H1rDwq2eYTg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_lightsnshadows.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="uePj6s1rocWiYhd2m4ak6Q==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/75_Brush3.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="rqYbBhHZ63j6fjAES8/wmQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Charcoal_Pencil_Medium.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="M11oyBlMYaLbD1iRYwx7gw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-4_Soft.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="yUoaK9C/KPJQdqE44xpQIw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Floor.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="uqIWUOlJNJ0XeOAIyf0B/Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Bristles_Eroded.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="bca+YdG+qQ32KdeSn7pw9Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Fill.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="NMHmZJ7wQp3Dpwcdcaxb2g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Dry_Roller.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="hjUTgTFHd7wZaENKFOGz9g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Spray.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="GK2BwGJcEdOpfx9xYOZulg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Water.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="6EeTYQC4CwlMT56xvvvwFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Mecha.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="9l/IQJpSfD8GTEcznhpBmA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Splat.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="73yMuD5x29aiaaqfu6afVw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Textured_Creases.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="urQ7ic0cGeL/V+1GdiZRmA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/74_Brush4.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="QTNreVL5rZzLkwYZbVwsXA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-2_Fineliner.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="U1A2qufMLg9JqeKChaAaQg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Shoujo_Bubbles.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Textures</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="4XDPg6JAjkLHna2eWHOYcg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/44_Clone_brush1.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="LOLNtHge8n6+g76ieFnsQg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Textured_Soft.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="7O01hwVhj/F5d+BnmXgsQw==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/h)_Chalk_Flat_RZV.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="q4cgzL7WQhKaYYEegRK0Iw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-3_Flow.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="QsH/67L722r6rdJ22f4A1g==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_dewmaker.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Clouds</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Basic</tag>
+  <tag blacklisted="false">Landscape</tag>
+ </resource>
+ <resource md5="r9N2EI6S6YqlSj9S3Qi3xQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/13_Quick_Pen.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="Yo6OZGxWS8GtsMQsU5khvA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_rocksnshapes.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Basic</tag>
+ </resource>
+ <resource md5="8kP+FYsTIq5jjGW/5GJucg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_wetgrass.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="znXnqdGy1Eg+DC8WY5M4HQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_cloudy.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Clouds</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Landscape</tag>
+ </resource>
+ <resource md5="tKC4K236tKHh2KTsWfGjIg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/d)_Ink_Chaos_RZV.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="Wypg9UwN+hFJ95+iw/KOag==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Rake.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="AgNCjOaz2l2Rdi3OlY6ElQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Overlay_Burn.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="ew1FmUqUEEoVE33in/iXog==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/e)_Felt_Tip_RZV.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="O6FdSJrwzobVxePmi3ZJiQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Pixelize.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="BtJwxBVaywkkk2au7fsOZg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Sparkles.kpp">
+  <tag blacklisted="false">Textures</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="SKgu7U1o+oGiacwBEISgSw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Starfield.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Textures</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="WhYt2U1Ts5uqvCCkvwM25Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Knife_Edge.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="8qkSJ7CZU3Fi0HZc7JhS1g==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/55_Double4.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="YK+CZ0G0tylDhZdK721rVg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-1_Hard.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="wxeQ29Wnu8y2Plp4WKGKrg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Distort_Move.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="4g7bdlKssVwQ/pgVP9554Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Bristles_Rough.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="yAA4DZAAcJsN9fDCZwUS8Q==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_happyweed.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="xA6jzSXWcsmPDpM2RGQRYw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/e)_Marker_Dry.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="YTorVUqs2doEFCnYzl4rRw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_ribbonpen.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="yOZ0UO3CjNTJdnx23jtRqA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Paint_Details.kpp">
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="zjdoLUU/B11eGBjG4dzFTA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/k)_Blender_Pores_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="/X6bKbScI/3IpsIQy1e2SQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/j)_Waterpaint_Hard_Edges.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="N7sl8brYGhMfnbIqLoznyw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Chalk_Grainy.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="Wyg1EfHYZtxDP759KqXQMA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/v)_Fuzzy_Textured_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="doXdPBy9CXslAEi+W0sHcA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_02_Thickpaint.kpp">
+  <tag blacklisted="false">RGBA</tag>
+ </resource>
+ <resource md5="nylU5+UnF0kBdvXOXmy5fQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Distort_Grow.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="td7FGG0/Dmq77mVfBfYE0w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/j)_Watercolor_Fringe.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="+acX/481jVarMDwZXYq1gA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/77_Move_tool.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="CuizwDvxco0SdX3YNJ6HyQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_roundtwo.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Basic</tag>
+ </resource>
+ <resource md5="F9+ZVR4nwPpt02SO2jNX5w==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/21_Edge.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="QEhUmD0T/piCl88uosYNjw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Rounded.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="3ZBmQTksbkWGhHxNyiSyOg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/11_Unsharp_mask.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="MUl5kvlbwlvetER2v9GyFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Big.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="BFT8YqJorap8RdvAi76h2w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-4_Flow_Opacity.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="QkkY2BcnP9BqjRgjN6bE4g==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/h)_Chalk_Shade_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="w16anQ9veOsHqkUPtydTng==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/41_Soft_Noisy.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="4H8OH3TMRABaRLXZ9FVmQg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/v)_Fuzzy_Rectangle_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="dqxCeCVVK5oJGtL4U+BnXA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-2.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="f2SuklV4XvVhAUkeDB/jbg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Distort_Shrink.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="hYHZerOnWhAaMyRxAQW7GA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_05_Impasto-details.kpp">
+  <tag blacklisted="false">RGBA</tag>
+ </resource>
+ <resource md5="2EK7YsktTmZooXnC9Xydlw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Square.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="dnn7s5qvEwuPAix+fIu1TA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/v)_Spread_Square_RZV.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="4LAwon/v8Hmf0GkcIz5Enw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Texture_Impressionism.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="NldR/DeSZVRtxqbxnZ7Zgw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Bristles.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="tsiPjvEy8tQz8jJvZpgCsw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_sketchy.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Basic</tag>
+ </resource>
+ <resource md5="IduHwMG03SHmtA9Z+WBzBA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_gardencircles.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Landscape</tag>
+ </resource>
+ <resource md5="bEfZwpZBXt7HGgdTEa+VLQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/42_Brush.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="vO89bLBOsosB5ARM4YM9Cg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_twignbark.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="3D0klt0lLSiQTcX8dYDQnw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/52_Rake.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="KZJruC11l+3KfC3uRSoajA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/64_Double1.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="A57gghCQn8kIhv3RU8blGQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rakurri_Brush_Set_V.1.1.bundle:paintoppresets/Rakurri_Pixelart_FoliageajtoDw.kpp">
+  <tag blacklisted="false">Rakurri</tag>
+ </resource>
+ <resource md5="ikM1bn6xLCo+IJP1wLV0/w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Multiply.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="o/PMuu7C/RYrjM9yLPhiCg==" identifier="~/AppData/Roaming/krita/paintoppresets/My_Sketch_Brush.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="As3pVHh77yzJGU43U48hYg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Reptile.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="qN+vBL/SeQg4aoqxa9NVgA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Experimental_Webs.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="sgqnf6/GR5SFPazta78+8w==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rakurri_Brush_Set_V.1.1.bundle:paintoppresets/Rakurri_Pixelart_Pixelspray.kpp">
+  <tag blacklisted="false">Rakurri</tag>
+ </resource>
+ <resource md5="nmQ8ozICRggQGtwIY8IEYw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Texture_Pointillism.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="sESbf9YOLmHHX423nTzqxw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Chalk_Details.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="MN6ki/ZazvP6Gw0+vLtQUg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-6_Quick_Shade.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="UvaYbXVo7OCj0Xntx9wyZA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/v)_Splat-1_RZV.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="DyeXXun+hzvXbedVcYvqUg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/u)_Pixel_Art_Fill.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Pixel Art</tag>
+ </resource>
+ <resource md5="Pw9qZ3EBSUrJTumwpCNDGg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Quick_Sketch_Blocky_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="/sNZFn7C6SEkiSIowE4gHQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-4_Glaze.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="iv/GDLKh2C81KVrkb/xHgQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Mountains_Distant.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="wi0m9382CUSvoiN9AbzpIw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/65_Double2.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="7r7AuU99gKh78yJ3m0+9jw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/23_Tilt4.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="jbSk72WTzgrxodh5FBT8zQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/j)_Watercolor_Texture.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="53wR2+7UdngwydQi3AnxMA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_lightreflections.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="miFqpOiuxFCjl0Fy6hLS4Q==" identifier="C:/Program Files/Krita (x64)/share/krita/paintoppresets/a)_Eraser_Circle.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+ </resource>
+ <resource md5="BvLMfAH5F0Qs1fzzkjJ7kA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-4_Pen_Rough.kpp">
+  <tag blacklisted="false">Ink</tag>
+ </resource>
+ <resource md5="M88JWn+fk11JyPJHNN3Ggw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/56_Oils_Bristle1.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="kFedKUwTys+AYzlsm8XoHQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Hard_Texture_Grain_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="RJ189/QT7lZ0Cy+nJ7bn8g==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/45_Clone_brush2.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="iosYH7j1EoxCCebdqIUg4Q==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_mistyshapes.kpp">
+  <tag blacklisted="false">Clouds</tag>
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="7WQ0eHqILfDLt2eP95pkYQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/t)_Shapes_Spikes.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="mjrP7W7cUUB7bWtSHmxueg==" identifier="C:/Program Files/Krita (x64)/share/krita/paintoppresets/b)_Basic-5_Size_default.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="ts304bkS782nmbQpVgnhVA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Lighten.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="U2V/ZWrZmmQ6ankZdT94wA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-8_Sumi-e.kpp">
+  <tag blacklisted="false">Ink</tag>
+ </resource>
+ <resource md5="xkm1hC02jeb+/RoKzi+1TQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/e)_Marker_Details.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="/ehOGh5priEDT0+xfsA7WQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/61_Rake_Textured.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="CNarPOt2Za0H3YVKl8m67A==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-1_Details.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="zqipIRLELOsZ3c0TkH1duA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Screentones_Regular.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="j0jRO8ybx0ZsLEpV2dvOOA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/y)_Texture_Fog_RZV.kpp">
+  <tag blacklisted="false">Textures</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="3lNWGXoQeEsJXAIhvQEx7Q==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-2_Opacity.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="up6oCh6oLwCyNI2v8o8aow==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/53_Line_Textured.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="Y1GmNgEZxbUEHxHT09kArQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-7_Brush_Rough.kpp">
+  <tag blacklisted="false">Ink</tag>
+ </resource>
+ <resource md5="3pvGM4WEyKTvVOg+hoQOjg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Crackles.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="qZ1oeB24LbauOzhbeWGAAA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/57_Hard_round2.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
  <resource md5="lD+9aeeICamALozWM+z+dg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Stylised_Tree.kpp">
   <tag blacklisted="false">Textures</tag>
  </resource>
- <resource md5="hjUTgTFHd7wZaENKFOGz9g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Spray.kpp">
-  <tag blacklisted="false">Textures</tag>
+ <resource md5="AQ2YRkccT/h1p/CCsUjsrg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Bristles-5_Flat.kpp">
+  <tag blacklisted="false">Sketch</tag>
   <tag blacklisted="false">Paint</tag>
  </resource>
- <resource md5="jx6H/1fsKq+rA3dhtjVOHA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_06_Rock.kpp">
+ <resource md5="NeG31MKCUrgTuXb7/lJC7w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-1.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="lLOfk9B7UcmyROzfHP1D8w==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/f)_Charcoal_Rock_Soft.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="/C8a8pHst7d9Pc3/BLb9hw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/17_Paintery.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="eXg8edHobxkXRFXP4Cgcsw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/62_Brush7.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="ckfI5Tcb2y9b+PUInIEodQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Charcoal_Pencil_Thin.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="QWmb1r/WhlKeUdo4CoS2Yg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/i)_Oil_Brush_Digital_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="qJw7kvqSS3hrRTh43e9d/A==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/43_Hairs.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="6z5k4ScCg0VHFYzL4G5QpQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_oldmist.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Clouds</tag>
+ </resource>
+ <resource md5="5LzB8Rr9z0zUl6G5tY2n1A==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_happypines.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="DQR4zZb3PZet3ujZlksCjQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rakurri_Brush_Set_V.1.1.bundle:paintoppresets/Rakurri_Pixelart_PebbleeagcpG.kpp">
+  <tag blacklisted="false">Rakurri</tag>
+ </resource>
+ <resource md5="m/6MlEuwO0KvtuuPhB96lg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_windnpetals.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+ </resource>
+ <resource md5="X5aEio5q8olzJVazBUwKJQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Textured_Soft.kpp">
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="FxRnxWzpI5BXMp3luh63fQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Bokeh.kpp">
+  <tag blacklisted="false">Textures</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="H/UGYkt0A1qa7eOgLnWh4Q==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_leaflines.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
+ </resource>
+ <resource md5="gfAZJVL4LwHVgD2KfG6TFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Screentone_Pressure.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="rzzdu2ICK8KxUXXCDvTMjg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/h)_Charcoal_pencil_large.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="J6/YArBWLodd4QYrRcE+vQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/y)_Dirty_Hatching_RZV.kpp">
+  <tag blacklisted="false">Textures</tag>
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="KVGaHGZkXPSs5W9NzT7TYA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_tumbleweed.kpp">
+  <tag blacklisted="false">Traditional</tag>
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="DC9VuAimpC7ArCCnqsMDpQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/12_Opacity_fix.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="7ZzdC9i+yaNa8YsACv9cdQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/l)_Adjust_Color.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="ASXLtVdv2LfeUXjSrfsMwg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/46_Oils_round.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="Q6/54TSai+E+eePM6o7cMQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Sketching-1_Chrome_Thin.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="qmChker5UxLMjYKju4ki6g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Grass_Patch.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="oDwBLmB5VZgczhFmeumoMw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/67_Hard_round.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="NaUnw3ERP6WCDw2bvRtm+g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Spines.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="pwANSknEtJYw36TVVZN0Eg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Dry_Brush_Precise_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="hVTKIBn/APTbv+ZdpPYVig==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/z)_Stamp_Leaves.kpp">
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="3vE+680/OWXCLCZQT9vpbA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Screentone_Moire.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Textures</tag>
+ </resource>
+ <resource md5="ZjQPm5+Pzy+J4SzuCoJxMg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rakurri_Brush_Set_V.1.1.bundle:paintoppresets/Rakurri_Blender_Branchy.kpp">
+  <tag blacklisted="false">Rakurri</tag>
+ </resource>
+ <resource md5="GQE7mbw1TVMmO72pZhl9mw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Airbrush_Soft.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="MuGLlrkg3qUIVkQw5+EJmw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/e)_Marker_Chisel_Smooth.kpp">
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="c6fIbFaWWvHp7s+Wwq+tFQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/d)_Ink-1_Precision.kpp">
+  <tag blacklisted="false">Ink</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="I83r0g/hQgyroRE1ehYqZw==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/36_Blender_Noisy.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="9/kB6HqFGGkH93ehlwXHmA==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/26_Blender_Strokes.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="2BQd+vaWC4WBTqUPHLATlA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Hard_Texture_Wood_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="0CeZrUGmNp2nq4nhRislBg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/g)_Dry_Brushing.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="aMxX9PNEfcs/9Fe+R1N/HA==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Dirty_Texture_Rough_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="4eas7jAZ2+1bti+UPpSlPg==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Dry_Brush_Variation_RZV.kpp">
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="4NbYXfbh3rpOWG6YUPaYww==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/RGBA_brushes.bundle:paintoppresets/m)_RGBA_03_Rake.kpp">
   <tag blacklisted="false">RGBA</tag>
  </resource>
- <resource md5="9l/IQJpSfD8GTEcznhpBmA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Splat.kpp">
-  <tag blacklisted="false">Textures</tag>
+ <resource md5="OkHQLNCL/prmh7w7y4+pkA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/c)_Pencil-5_Tilted.kpp">
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="6AZb4BFTL3iUp9t8TcXJVQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/b)_Basic-6_Details.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
   <tag blacklisted="false">Paint</tag>
-  <tag blacklisted="false">Ink</tag>
  </resource>
- <resource md5="pT2yeLkeCQu3JUyGcUDJjg==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/y)_Texture_Hair.kpp">
-  <tag blacklisted="false">Textures</tag>
+ <resource md5="Hx6nJXdWBJp9hQwXxb6OKg==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rakurri_Brush_Set_V.1.1.bundle:paintoppresets/Rakurri_Pixelart_Grass.kpp">
+  <tag blacklisted="false">Rakurri</tag>
+ </resource>
+ <resource md5="oYtufqIVKIowzRU3aUfC/g==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/u)_Pixel_Art.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Pixel Art</tag>
+ </resource>
+ <resource md5="nnsp7FEXrLmi9pKwNaxAnw==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/k)_Blender_Blur.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+  <tag blacklisted="false">Paint</tag>
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">FX</tag>
+ </resource>
+ <resource md5="DT+VUYtTPGnKNoWlgIyf4g==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/g)_Quick_Sketch_Scratch_RZV.kpp">
+  <tag blacklisted="false">RZV</tag>
+  <tag blacklisted="false">Paint</tag>
+ </resource>
+ <resource md5="ADDPdNdZmRc6krywMADCPQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/51_Scribbles.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="EmfLPU7xwqQQ1EKeJ1rNAA==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/v)_Clone_Tool.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">Sketch</tag>
+ </resource>
+ <resource md5="nv74cKpBd9d9qyWZ2DaKbQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_b_conceptualhair.kpp">
+  <tag blacklisted="false">Sketch</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Digital</tag>
+ </resource>
+ <resource md5="0gihQTGQv8QVyK1wm5kVoQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Concept_&amp;_Illustration_v1.2.bundle:paintoppresets/1)Basic_flat_vertical_backup_2020-05-06-175724.kpp">
+  <tag blacklisted="false">FAVS</tag>
+ </resource>
+ <resource md5="HmtynzbZtG3dID+MTU8iKQ==" identifier="bundle://~/AppData/Roaming/krita/bundles/Rad's.bundle:paintoppresets/54_Double3.kpp">
+  <tag blacklisted="false">1_Rad's</tag>
+ </resource>
+ <resource md5="EvGnHwQ6uCImdCdJNyxr2Q==" identifier="bundle://~/AppData/Roaming/krita/bundles/RZV.bundle:paintoppresets/v)_Repetitive_Structure_RZV.kpp">
+  <tag blacklisted="false">Digital</tag>
+  <tag blacklisted="false">RZV</tag>
+ </resource>
+ <resource md5="QLF6v8F9GC9d19iCH5vLAQ==" identifier="~/AppData/Roaming/krita/paintoppresets/b)_Basic-2_Opacity_Soft.kpp">
+  <tag blacklisted="false">Basic Painting</tag>
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="pmFH0naPrrHMms2qSw0wDQ==" identifier="bundle://C:/Program Files/Krita (x64)/share/krita/bundles/Krita_4_Default_Resources.bundle:paintoppresets/i)_Wet_Paint.kpp">
+  <tag blacklisted="false">★ My Favorites</tag>
+ </resource>
+ <resource md5="vfBuNdoJNSgkJ3XPrI1fow==" identifier="bundle://~/AppData/Roaming/krita/bundles/Quiraltas_SM_Brush_Set.bundle:paintoppresets/qs_a_lightdrops.kpp">
+  <tag blacklisted="false">Landscape</tag>
+  <tag blacklisted="false">Quiralta</tag>
+  <tag blacklisted="false">Traditional</tag>
  </resource>
  <resource identifier="dummy">
   <tag blacklisted="true">Rad's</tag>
  </resource>
  <resource identifier="dummy">
-  <tag blacklisted="true">1_Rad's</tag>
- </resource>
- <resource identifier="dummy">
   <tag blacklisted="true">Rad's</tag>
- </resource>
- <resource identifier="dummy">
-  <tag blacklisted="true">1_Rad's</tag>
  </resource>
 </tags>
